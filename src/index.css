@@ -14,3 +14,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button:hover {
+  font-size: 115%;
+}
+
+button {
+  transition: font-size 0.75s;
+}
