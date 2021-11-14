@@ -120,6 +120,7 @@
     .content7{
         flex-direction: column;
         padding: 10px;
+        text-align: center;
     }
 
     .logo7 {
