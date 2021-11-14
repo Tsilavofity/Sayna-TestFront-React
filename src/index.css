@@ -16,9 +16,9 @@ code {
 }
 
 button:hover {
-  font-size: 115%;
+  font-size: 105%;
 }
 
 button {
-  transition: font-size 0.75s;
+  transition: font-size 0.8s;
 }
