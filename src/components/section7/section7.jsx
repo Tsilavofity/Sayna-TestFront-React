@@ -9,12 +9,12 @@ function SeventhSection() {
                 <div className="table">
                     <Card7
                     button = "What are the documents required for claiming?"
-                    display = "none" 
+                    display = "block" 
                     transform = "rotate(180deg)"
                     />
                     <Card7
                     button = "which are the network hospitals in your vicinity?"
-                    display = "block"  
+                    display = "none"  
                     />
                     <Card7
                     button = "Will I get covered for my pre-existing illness?"

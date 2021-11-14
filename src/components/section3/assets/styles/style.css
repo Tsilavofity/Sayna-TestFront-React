@@ -42,3 +42,9 @@
 .after {
     margin-top: -125px;
 }
+
+@media screen and (max-width: 1199px) {
+    .after {
+        display: none;
+    }
+  }

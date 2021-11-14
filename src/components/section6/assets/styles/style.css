@@ -81,3 +81,17 @@
     background-color: #fcfdac;
     color: #ddbb4c;
 }
+
+@media screen and (max-width: 1199px) {
+    .section6{
+        height: auto;
+    }
+    
+    .cards6{
+        flex-direction: column;
+    }
+
+    .bg{
+        display: none;
+    }
+  }

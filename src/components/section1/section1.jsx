@@ -30,7 +30,7 @@ function FirstSection(){
             </div>
             <div className="section4">
                 <div className="card1Section4">
-                    <img src="https://firebasestorage.googleapis.com/v0/b/sayna-test.appspot.com/o/section1%2Fhealth-family-1.png?alt=media&token=ed59b4e3-4874-41ed-8258-4d643b857fd1" alt="" />
+                    <img className="family" src="https://firebasestorage.googleapis.com/v0/b/sayna-test.appspot.com/o/section1%2Fhealth-family-1.png?alt=media&token=ed59b4e3-4874-41ed-8258-4d643b857fd1" alt="" />
                 </div>
                 <div className="card2Section4">
                     <h4 class="blue">Monotonectally deploy seamless data and <br /> resource maximizing systems.</h4>
