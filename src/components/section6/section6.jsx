@@ -1,12 +1,11 @@
 import Card6 from "./card6";
 import "./assets/styles/style.css"
 import Tick6 from "./tick6"
-import bg from "./assets/img/bg-image4.png"
 
 function SixthSection() {
     return (
         <div className="section6">
-            <img src={bg} alt="" className="bg" />
+            <img src="https://firebasestorage.googleapis.com/v0/b/sayna-test.appspot.com/o/section6%2Fbg-image4.png?alt=media&token=045db968-6041-42f8-83f0-c52bfd280134" alt="" className="bg" />
             <div className="container6">
                 <h1>Honest Pricing</h1>
                 <p>Simple & honest pricing. No hidden fees</p>

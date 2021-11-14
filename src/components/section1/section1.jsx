@@ -1,6 +1,3 @@
-import logo from "./assets/img/logo.png"
-import banner_1 from "./assets/img/banner-1.png"
-import family_ilustration_1 from "./assets/img/health-family-1.png"
 import "./assets/css/style.css"
 import Tick from "./tick"
 
@@ -10,7 +7,7 @@ function FirstSection(){
         <div className="container">
             <div className="section1">
                 <nav className="menu">
-                    <img src={logo} alt="" />
+                    <img src="https://firebasestorage.googleapis.com/v0/b/sayna-test.appspot.com/o/section1%2Flogo.png?alt=media&token=fcb260e7-af21-4994-a44c-4efaa0164934" alt="" />
                     <ul>
                         <li><a href="/">For you & family</a></li>
                         <li><a href="/">For Buisiness</a></li>
@@ -24,7 +21,7 @@ function FirstSection(){
                     <button>Get your free Quote</button>
                 </div>
                 <div className="card2Section3">
-                    <img src={banner_1} alt="" class = "imgRight"/>
+                    <img src="https://firebasestorage.googleapis.com/v0/b/sayna-test.appspot.com/o/section1%2Fbanner-1.png?alt=media&token=adf8a95f-eb19-4dfb-af5c-024613072980" alt="" class = "imgRight"/>
                 </div>
             </div>
             <div className="section3">
@@ -33,7 +30,7 @@ function FirstSection(){
             </div>
             <div className="section4">
                 <div className="card1Section4">
-                    <img src={family_ilustration_1} alt="" />
+                    <img src="https://firebasestorage.googleapis.com/v0/b/sayna-test.appspot.com/o/section1%2Fhealth-family-1.png?alt=media&token=ed59b4e3-4874-41ed-8258-4d643b857fd1" alt="" />
                 </div>
                 <div className="card2Section4">
                     <h4 class="blue">Monotonectally deploy seamless data and <br /> resource maximizing systems.</h4>
