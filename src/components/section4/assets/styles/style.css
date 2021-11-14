@@ -1,0 +1,18 @@
+.container4 {
+    margin-top: 100px;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+
+.section1-4 {
+    left: 100px;
+    position: absolute;
+    margin-top: 150px;
+    width: 400px;
+}
+
+.section2-4 img {
+    width: 1500px;
+    margin-left: 250px;
+}

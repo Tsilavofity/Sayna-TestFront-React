@@ -1,0 +1,81 @@
+.menu, ul, .section2, .section4, .card2Section4Item{
+    display: flex;
+}
+
+li {
+    margin-left: 13px;
+    list-style: none;
+}
+
+.card2Section4 {
+    margin-left: -300px;
+    margin-right: 100px;
+}
+
+.section3{
+    text-align: center;
+    margin-top: -50px;
+    margin-bottom: 100px;
+}
+
+.section2 {
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+.imgRight {
+    width: 964px;
+    height: 879px;
+    margin-top: -250px;
+    margin-right: -100px;
+}
+
+.section1 {
+    margin-top: 12px;
+    margin-left: 100px;
+}
+
+.card2Section4 img {
+    margin: 10px;
+    height: 69px;
+    width: 69px;
+}
+
+.card1Section2{
+    margin-top: 175px;
+}
+
+.container button {
+    padding: 15px;
+    background: linear-gradient(to top left, #bc0d60, #eda182);
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+}
+
+.container {
+    overflow: hidden;
+}
+
+.card2Section4Item {
+    align-items: center;
+}
+
+.blue{
+    color: #00b7c4;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+}
+
+a:hover{
+    color: black;
+}
+
+.section1 img {
+    width: 90px;
+    height: 30px;
+    margin: 10px;
+}

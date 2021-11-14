@@ -1,0 +1,103 @@
+.section7 {
+    margin-top: 100px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.bgSection7 {
+    position: absolute;
+    right: 0;
+    top:0;
+    z-index: 10;
+    width: auto;
+    height: 100%;
+}
+
+.content7 {
+    justify-content: space-between;
+    display: flex;
+    width: 85%;
+    height: auto;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 12px;
+    box-shadow: 5px 10px 8px 1px #888888;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    z-index: 15;
+    background-color: white;
+    padding-left: 40px;
+    padding-right: 14px;
+}
+
+
+.content7 p,.content7 h1{
+    margin:0;
+
+}
+
+.content7 div{
+    margin: 10px;
+
+}
+
+.logo7 {
+    position: absolute;
+    left: -44px;
+}
+
+.buttonGet {
+    height: 50px;
+    padding: 15px;
+    margin-left: 50px;
+    box-shadow: 2px 2px 5px 1px #888888;
+    background-color: #00d9a4;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    white-space: nowrap;
+}
+
+.container7 {
+    width: 70%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.buttonCard {
+    padding: 20px;
+    width: 60%;
+    background-color: white;
+    border:1px solid rgba(128, 128, 128, 0.281);
+    margin: 0;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    color: #36a2ff;
+}
+
+.extend {
+    padding: 15px;
+    width: 60%;
+    background-color: white;
+    border:1px solid rgba(128, 128, 128, 0.281);
+    margin: 0;
+    color: #888888;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+.arrow {
+    height: 15px;
+    width: 15px;
+}

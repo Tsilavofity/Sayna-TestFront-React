@@ -1,0 +1,35 @@
+.container5 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section2-5 {
+    justify-content: space-between;
+    display: flex;
+    width: 60%;
+    padding: 60px;
+    border-radius: 12px;
+    box-shadow: 5px 10px 8px 1px #888888;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+.logo5 {
+    position: absolute;
+    left: -44px;
+}
+
+.section2-5 button {
+    height: 50px;
+    padding: 15px;
+    margin-left: 50px;
+    box-shadow: 3px 3px 3px 1px #888888;
+    background-color: #00d9a4;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+}
